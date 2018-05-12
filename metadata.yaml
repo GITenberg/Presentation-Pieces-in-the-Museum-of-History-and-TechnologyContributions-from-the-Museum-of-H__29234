@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33773'
     url: http://www.gutenberg.org/2009/agents/33773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29234#Presentation-Pieces-in-the-Museum-of-History-and-TechnologyContributions-from-the-Museum-of-H_
 gutenberg_issued: '2009-06-25'
 gutenberg_type: Text
 identifiers:
