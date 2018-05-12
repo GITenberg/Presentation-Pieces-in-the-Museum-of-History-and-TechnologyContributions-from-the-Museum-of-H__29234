@@ -1,0 +1,30 @@
+_repo: Presentation-Pieces-in-the-Museum-of-History-and-TechnologyContributions-from-the-Museum-of-H__29234
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29234-h/images/i_front_cover.jpg
+creator:
+  author:
+    agent_name: Klapthor, Margaret Brown
+    alias: Brown, Margaret Washington
+    birthdate: 1922
+    deathdate: 1994
+    gutenberg_agent_id: '33773'
+    url: http://www.gutenberg.org/2009/agents/33773
+description: ''
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Silverwork'
+- !lcc 'NK'
+title: 'Presentation Pieces in the Museum of History and Technology
+
+  Contributions from the Museum of History and Technology, Paper No. 47 [Smithsonian
+  Institution]'
+url: http://www.gutenberg.org/ebooks/29234
